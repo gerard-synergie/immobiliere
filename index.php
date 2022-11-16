@@ -1,5 +1,5 @@
 <?php
-    // index.php : Un routeur qui dispatchs les requetes du serveur
+    // index.php : Un routeur qui dispatche les requetes du serveur
     // On charge les modeles et les controleurs
     require_once 'controllers/ConnexionController.php';
     require_once 'controllers/AgentsController.php';
